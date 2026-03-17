@@ -2,7 +2,7 @@
 
 Welcome! You're looking at a complete blueprint for building an AI-augmented operating system for urban planners.
 
-This is inspired by the [PM Operating System](https://github.com/Sach1ng/PM-operating-OS) but adapted specifically for planning work.
+This is inspired by the PM Operating System but adapted specifically for planning work.
 
 ---
 
